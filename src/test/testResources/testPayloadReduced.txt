@@ -1,0 +1,47 @@
+{
+  "latitude": 51.1,
+  "longitude": 17.039999,
+  "generationtime_ms": 3.7540197372436523,
+  "utc_offset_seconds": 7200,
+  "timezone": "Europe/Warsaw",
+  "timezone_abbreviation": "CEST",
+  "elevation": 127.0,
+  "hourly_units": {
+    "time": "iso8601",
+    "temperature_2m": "�C"
+  },
+  "hourly": {
+    "time": [
+      "2023-07-03T00:00",
+      "2023-07-03T01:00"
+    ],
+    "temperature_2m": [
+      17.1,
+      16.3
+    ]
+  },
+  "daily_units": {
+    "time": "iso8601",
+    "sunrise": "iso8601",
+    "sunset": "iso8601",
+    "rain_sum": "mm"
+  },
+  "daily": {
+    "time": [
+      "2023-07-03",
+      "2023-07-04"
+    ],
+    "sunrise": [
+      "2023-07-03T04:42",
+      "2023-07-04T04:43"
+    ],
+    "sunset": [
+      "2023-07-03T21:09",
+      "2023-07-04T21:09"
+    ],
+    "rain_sum": [
+      0.00,
+      0.00
+    ]
+  }
+}

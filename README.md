@@ -1,4 +1,4 @@
-# lingventa_coding_task
+# lingventa_weatherApi
 
 A simple spring boot microservice that allows getting data from OpenMeteoAPI. 
 
